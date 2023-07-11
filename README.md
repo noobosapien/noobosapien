@@ -1,5 +1,5 @@
-Greetings! \n
-🔭 I’m currently working on using AI to build a customizable 2D animation editor where unique game sprites can be made by using AI, adding animations for those sprites, and downloading the sprite sheets. \n
+Greetings! 
+🔭 I’m currently working on using AI to build a customizable 2D animation editor where unique game sprites can be made by using AI, adding animations for those sprites, and downloading the sprite sheets. 
 🌱 I’m currently learning about IK-chains.
 
 <!--
