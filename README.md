@@ -1,4 +1,6 @@
-### Hi there 👋
+Greetings!
+🔭 I’m currently working on using AI to build a customizable 2D animation editor where unique game sprites can be made by using AI, adding animations for those sprites, and downloading the sprite sheets. 
+🌱 I’m currently learning about IK-chains.
 
 <!--
 **noobosapien/noobosapien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
